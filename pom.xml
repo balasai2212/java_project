@@ -28,13 +28,13 @@
 	<distributionManagement>
         <repository>
         <id>nexus3</id>
-        <name>my-repo</name>
-        <url>http://34.204.179.165:8081/repository/my-repo</url>
+        <name>jeelan</name>
+        <url>http://13.233.47.240:8081/repository/jeelan/</url>
         </repository>
         <snapshotRepository>
         <id>nexus3</id>
-        <name>my-repo</name>
-        <url>http://34.204.179.165:8081/repository/my-repo</url>
+        <name>jeelan</name>
+        <url>http://13.233.47.240:8081/repository/jeelan/</url>
         </snapshotRepository>
         </distributionManagement>
 </project>
